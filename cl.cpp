@@ -10,5 +10,6 @@ void main(void) {
 		days = 30;
 	else days= 31;
 	printf("%d월의 일수는 %d입니다.\n", month, days);
+	printf("안녕하세요 깃허브 입니다")
 	
 }
