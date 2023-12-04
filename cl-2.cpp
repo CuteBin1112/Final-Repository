@@ -11,4 +11,5 @@ void main()
 	printf("Sum from 1 to 50 = %d\n", s);
 	printf("cl-2 첫번째 코드 수정");
 	printf("cl-2 두번째 코드 수정");
+	printf("cl-3 세번째 코드 수정");
 }
