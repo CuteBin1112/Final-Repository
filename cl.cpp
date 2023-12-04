@@ -6,7 +6,7 @@ void main(void) {
 	scanf("%d", &month);
 	if (month == 2)
 		days = 28;
-	else if (month == 4 || month == 6 || month == 9 || month == 11 || 3 || 5|| 7)
+	else if (month == 4 || month == 6 || month == 9 || month == 11 || 3 || 5|| 7||9)
 		days = 30;
 	else days= 31;
 	printf("%d월의 일수는 %d입니다.\n", month, days);
@@ -14,5 +14,6 @@ void main(void) {
 	printf("코드 수정 두번째");
 	printf("코드 수정 세번째");
 	printf("코드 수정 네번째");
+	printf("코드 수정 다섯번째")
 	
 }
